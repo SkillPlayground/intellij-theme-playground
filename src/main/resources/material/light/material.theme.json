@@ -1,0 +1,12 @@
+{
+  "name": "JavierSC Material Light",
+  "dark": false,
+  "author": "Javier Segovia Córdoba",
+  "icons": {
+    "/actions/execute.svg": "/icons/run-two.svg",
+    "/actions/compile.svg": "/icons/run-two.svg"
+  },
+  "ui": {
+
+  }
+}

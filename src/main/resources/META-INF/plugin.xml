@@ -9,6 +9,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.javiersegoviacordoba.intellijthemeplayground.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.javiersegoviacordoba.intellijthemeplayground.services.MyProjectService"/>
+        <themeProvider id="com.javiersc.intellij.material.light" path="material/light/material.theme.json" />
     </extensions>
 
     <applicationListeners>
